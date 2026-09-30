@@ -1,0 +1,13 @@
+{
+  "name": "eduvia",
+  "version": "1.0.0",
+  "description": "Eduvia - Không Gian Học Tập Thông Minh & Trạm Tâm Sự Vũ Trụ",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node apply_enhancements.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

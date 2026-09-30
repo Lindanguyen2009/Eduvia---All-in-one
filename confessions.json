@@ -1,0 +1,72 @@
+[
+  {
+    "id": "conf_1790036194974_nphpv",
+    "author": "Ẩn danh bí mật",
+    "avatar": "🌙",
+    "mood": "Vừa hoàn thành mục tiêu 🎉",
+    "content": "Tôi mới đi trễ",
+    "timestamp": 1790036194975,
+    "reactions": {
+      "heart": 1,
+      "hug": 0,
+      "star": 0,
+      "rocket": 0
+    }
+  },
+  {
+    "id": "conf_1790031302285_zj3nq",
+    "author": "Tester Vũ Trụ",
+    "avatar": "🚀",
+    "mood": "Tâm sự 💭",
+    "content": "Chào mừng các bạn đến với Eduvia phiên bản Galaxy Pastel!",
+    "timestamp": 1790031302285,
+    "reactions": {
+      "heart": 1,
+      "hug": 0,
+      "star": 0,
+      "rocket": 0
+    }
+  },
+  {
+    "id": "conf_1",
+    "author": "Ngôi Sao Lạc Lối",
+    "avatar": "🪐",
+    "mood": "Áp lực thi cử 🌪️",
+    "content": "Tuần này mình có 3 bài kiểm tra liền, cảm thấy hơi kiệt sức. Nhưng nhìn danh sách task trên Eduvia hoàn thành dần dần, mình lại có động lực bước tiếp. Mọi người cùng cố lên nhé!",
+    "timestamp": 1790024081507,
+    "reactions": {
+      "heart": 12,
+      "hug": 18,
+      "star": 9,
+      "rocket": 7
+    }
+  },
+  {
+    "id": "conf_2",
+    "author": "Nhà Thám Hiểm Vũ Trụ",
+    "avatar": "🚀",
+    "mood": "Vừa hoàn thành mục tiêu 🎉",
+    "content": "Hôm nay vừa hoàn thành chuỗi 5 phiên Pomodoro không chạm vào điện thoại! Cảm giác đỗ được một thử thách thật tuyệt vời. Chúc mọi người một ngày học tập siêu năng suất!",
+    "timestamp": 1790009681507,
+    "reactions": {
+      "heart": 24,
+      "hug": 5,
+      "star": 31,
+      "rocket": 20
+    }
+  },
+  {
+    "id": "conf_3",
+    "author": "Mèo Học Đêm",
+    "avatar": "✨",
+    "mood": "Cần động lực ✨",
+    "content": "Có ai đang thức ôn bài cùng mình không? Thấy thanh cấp bậc \"Bản lĩnh\" đang gần đạt được rồi, ráng nốt hôm nay mai nghỉ ngơi sau!",
+    "timestamp": 1789980881507,
+    "reactions": {
+      "heart": 15,
+      "hug": 22,
+      "star": 14,
+      "rocket": 10
+    }
+  }
+]

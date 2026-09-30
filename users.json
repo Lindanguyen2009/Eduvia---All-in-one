@@ -1,0 +1,57 @@
+{
+  "demo": {
+    "username": "demo",
+    "password": "123",
+    "name": "Nhà Thám Hiểm Eduvia",
+    "avatar": "🚀",
+    "createdAt": 1789903208784,
+    "lastLogin": 1790508008784,
+    "data": {
+      "user": {
+        "name": "Nhà Thám Hiểm Eduvia",
+        "totalXp": 180,
+        "streak": 3,
+        "bestStreak": 5,
+        "completedTasks": 7
+      },
+      "tasks": [],
+      "decks": []
+    }
+  },
+  "testuser_1790508118478": {
+    "username": "testuser_1790508118478",
+    "password": "mypassword123",
+    "name": "Ngôi Sao Sáng",
+    "avatar": "🚀",
+    "createdAt": 1790508118527,
+    "lastLogin": 1790508118541,
+    "data": {
+      "user": {
+        "name": "Ngôi Sao Sáng",
+        "totalXp": 350,
+        "streak": 5
+      },
+      "tasks": [
+        {
+          "id": 1,
+          "name": "Học hóa este",
+          "quadrant": "Q1"
+        }
+      ],
+      "decks": [
+        {
+          "id": 1,
+          "name": "IELTS 1",
+          "cards": []
+        }
+      ],
+      "studyStats": {
+        "totalFocusMinutes": 0,
+        "pomodoroCount": 0,
+        "battlesWon": 0,
+        "roomsJoined": 0
+      },
+      "lastSyncTime": 1790508118548
+    }
+  }
+}
